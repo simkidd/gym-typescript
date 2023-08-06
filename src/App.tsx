@@ -4,7 +4,7 @@ import Home from "@/scenes/home"
 import OurClasses from './scenes/ourClasses'
 import Benefits from "@/scenes/benefits"
 import { SelectedPage } from '@/shared/types'
-import ContactUs from './scenes/contactUs'
+// import ContactUs from './scenes/contactUs'
 
 
 const App = () => {
